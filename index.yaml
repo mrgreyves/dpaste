@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  dpaste:
+  - apiVersion: v2
+    appVersion: "3.5"
+    created: "2021-09-27T13:31:58.080335+03:00"
+    description: A Helm chart for dpaste app
+    digest: 219db707b24c542ef9470fe4dbcf34b375b879ab7001fff0945dd24af87e136e
+    name: dpaste
+    type: application
+    urls:
+    - https://mrgreyves.github.io/dpaste/dpaste-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-27T13:31:58.079631+03:00"
